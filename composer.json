@@ -1,0 +1,7 @@
+{
+    "name": "minaammunir/laravelspeed",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}

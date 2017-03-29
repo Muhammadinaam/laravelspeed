@@ -1,5 +1,5 @@
 # laravelspeed
-Laravel Crud / Admin Generator (Not Ready Yet)
+Laravel Crud / Admin Generator
 
 
 
